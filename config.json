@@ -1,0 +1,10 @@
+{
+  "reduction": 1.0,
+  "rampupFactor": 1.0,
+  "goalOffset": 0,
+  "defaultCPH": 6,
+  "cacheDuration": 3600000,
+  "autoUpdateInterval": 86400000,
+  "version": "3.0",
+  "lastUpdated": "2024-01-15"
+}
